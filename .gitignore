@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+certs/
+*.key
+*.pem
+*.bak
+.git/
+__pycache__/
+*.pyc
